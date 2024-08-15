@@ -26,7 +26,7 @@ You can configure the widgets using the settings application by executing the `s
 
 ## Building widgets
 
-In order to be able to build your widget, you must make a kernel mod that will register your widget when it starts (`AddWidget()`) and will unregister it when your mod stops (`RemoveWidget()`). Follow the instructions on how to build your mod [here](../../advanced-and-power-users/kernel-modifications/build-your.../your-mod.md) and use it as a starting point to be able to build such a mod.
+In order to be able to build your widget, you must make a kernel mod that will register your widget when it starts (`AddWidget()`) and will unregister it when your mod stops (`RemoveWidget()`). Follow the instructions on how to build your mod [here](../../advanced-and-power-users/kernel-modifications/your-mod.md) and use it as a starting point to be able to build such a mod.
 
 Afterwards, make a new class file somewhere on your mod source that will hold all your widget code, such as `MyWidget`, and make it implement both the `BaseWidget` class and the `IWidget` interface so that Nitrocid recognizes it as a widget. A minimal example for this class can be consulted below:
 

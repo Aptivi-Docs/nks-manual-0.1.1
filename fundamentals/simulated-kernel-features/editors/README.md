@@ -2,7 +2,7 @@
 description: Do you want to edit text?
 ---
 
-# ✏ Editors
+# ✏️ Editors
 
 <figure><img src="../../../.gitbook/assets/Beta3-016-Editor.png" alt=""><figcaption></figcaption></figure>
 

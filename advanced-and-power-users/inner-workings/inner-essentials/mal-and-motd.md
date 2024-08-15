@@ -2,7 +2,7 @@
 description: Message of the Day before and after login
 ---
 
-# ✉ MAL and MOTD
+# ✉️ MAL and MOTD
 
 Messages of the day were used before and after logging in to your user account to give you a warm greeting, a funny quote, or a text of your choice. This gives you a subtle information about your message of the day.
 
