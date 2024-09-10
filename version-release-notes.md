@@ -85,3 +85,60 @@ The following changes have been made:
 The following changes have been made:
 
 * <mark style="color:green;">You can now unlock by mouse</mark>
+
+### Version 0.1.1.10
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated SpecProbe</mark>
+
+### Version 0.1.1.11
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated Terminaux</mark>
+
+### Version 0.1.1.12
+
+The following changes have been made:
+
+* <mark style="color:green;">Added instance properties and fields support for reflection</mark>
+
+### Version 0.1.1.13
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated Terminaux to 5.0 to bring improvements</mark>
+
+### Version 0.1.1.14
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Fixed IFM and Settings TUIs</mark>
+
+### Version 0.1.1.15
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated libraries</mark>
+
+### Version 0.1.1.16
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated libraries</mark>
+
+### Version 0.1.1.17
+
+The following changes have been made:
+
+* <mark style="color:green;">Homepage actions can now be registered</mark>
+* <mark style="color:green;">Added more applications to the homepage</mark>
+* <mark style="color:green;">Added an option to get lap list</mark>
+* <mark style="color:green;">Added unlocalized strings</mark>
+* <mark style="color:yellow;">The Nitrocid Homepage now looks more modern than before</mark>
+* <mark style="color:yellow;">Fixed transparency issues for some apps, such as Calendar TUI</mark>
+* <mark style="color:yellow;">Improved calendar event and reminder listing</mark>
+* <mark style="color:yellow;">You'll need to sign in before being able to shut down or reboot from the login screen</mark>
+* <mark style="color:yellow;">General improvements and bug fixes</mark>
+* <mark style="color:red;">Removed extra localized strings</mark>
