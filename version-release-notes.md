@@ -142,3 +142,9 @@ The following changes have been made:
 * <mark style="color:yellow;">You'll need to sign in before being able to shut down or reboot from the login screen</mark>
 * <mark style="color:yellow;">General improvements and bug fixes</mark>
 * <mark style="color:red;">Removed extra localized strings</mark>
+
+### Version 0.1.1.18
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated libraries</mark>
