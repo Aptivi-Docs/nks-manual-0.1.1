@@ -155,3 +155,15 @@ The following changes have been made:
 
 * <mark style="color:yellow;">Updated Terminaux to 5.1.0</mark>
 * <mark style="color:yellow;">About button fixed</mark>
+
+### Version 0.1.1.20
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated FluentFTP</mark>
+
+### Version 0.1.1.21
+
+The following changes have been made:
+
+* <mark style="color:purple;">Repacked Chocolatey for latest dependencies</mark>
