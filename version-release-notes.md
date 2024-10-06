@@ -1,8 +1,9 @@
 ---
 description: This page lists all versions of the 0.1.1.x series.
+icon: newspaper
 ---
 
-# 🗞️ Version Release Notes
+# Version Release Notes
 
 This series started with API version v3.0.26.42 for the final version of Nitrocid KS 0.1.1 released on July 23rd, 2024.
 
