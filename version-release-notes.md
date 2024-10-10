@@ -1,6 +1,6 @@
 ---
-description: This page lists all versions of the 0.1.1.x series.
 icon: newspaper
+description: This page lists all versions of the 0.1.1.x series.
 ---
 
 # Version Release Notes
@@ -168,3 +168,15 @@ The following changes have been made:
 The following changes have been made:
 
 * <mark style="color:purple;">Repacked Chocolatey for latest dependencies</mark>
+
+### Version 0.1.1.22 <a href="#version-0.1.1.22" id="version-0.1.1.22"></a>
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated libraries (excluding BassBoom)</mark>
+
+### Version 0.1.1.23 <a href="#version-0.1.1.23" id="version-0.1.1.23"></a>
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Prevent color palette from being used on screensavers</mark>
