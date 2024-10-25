@@ -180,3 +180,22 @@ The following changes have been made:
 The following changes have been made:
 
 * <mark style="color:yellow;">Prevent color palette from being used on screensavers</mark>
+
+### Version 0.1.1.24
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Fixed license infobox modality</mark>
+* <mark style="color:yellow;">Fixed BackRace game appearance</mark>
+
+### Version 0.1.1.25
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Fixed a security issue concerning System.Text.Json</mark>
+
+### Version 0.1.1.26
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Fixed a usability issue regarding Terminaux</mark>
