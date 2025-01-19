@@ -13,13 +13,9 @@ description: How to install Nitrocid KS on Linux
 
 Installing Nitrocid KS on Linux is straightforward, but we recommend installing the simulator using the manual unpack method.
 
-Before performing the installation, your Linux system must meet the following requirements:
-
 {% hint style="info" %}
 Extra kernel add-ons may require additional hardware on your computer to work. For example, the BassBoom addon requires that you have audio drivers installed on your computer.
 {% endhint %}
-
-#### KS v0.1.0 or later
 
 To run Nitrocid KS in the absolute minimum requirements, your computer needs to have the following installed:
 
@@ -27,15 +23,17 @@ To run Nitrocid KS in the absolute minimum requirements, your computer needs to 
 | ----------------- | ------------------------------------------------------------------ | ----------------------------- |
 | Supported distros | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Konsole, GNOME Terminal, etc. |
 
-#### Required packages
-
 You can consult the required dependencies here:
 
-### Installation
+{% content-ref url="../dependency-information.md" %}
+[dependency-information.md](../dependency-information.md)
+{% endcontent-ref %}
+
+## Installation
 
 There are several ways to install Nitrocid KS on Linux systems.
 
-#### Method 1: Manual unpack
+### Method 1: Manual unpack
 
 If you like to manually unpack the Nitrocid KS packages, follow these steps:
 
@@ -45,7 +43,7 @@ If you like to manually unpack the Nitrocid KS packages, follow these steps:
 4. Open your favorite terminal emulator, like Konsole, and change the working directory to a folder containing the Nitrocid KS executable
 5. Execute `dotnet Nitrocid.dll` to start the kernel
 
-#### Method 2: Ubuntu PPA
+### Method 2: Ubuntu PPA
 
 {% hint style="info" %}
 This only applies to Ubuntu and its derivatives. However, we only support the vanilla Ubuntu distribution. <mark style="color:red;">**Don't try this method on**</mark> [<mark style="color:red;">**Debian**</mark>](https://wiki.debian.org/DontBreakDebian#Don.27t_make_a_FrankenDebian)<mark style="color:red;">**.**</mark>
@@ -62,7 +60,7 @@ If you're running Ubuntu, you can install Nitrocid KS using the Ubuntu PPA. Just
 
 You can choose between the version series that you want to upgrade in the output of the `apt` command when it prompts you to select one of them, as `nitrocid` is a virtual package.
 
-#### Method 3: Arch Linux AUR
+### Method 3: Arch Linux AUR
 
 {% hint style="info" %}
 This only applies to vanilla Arch Linux. We don't officially support Arch's derivatives, such as Manjaro and EndeavourOS.
@@ -77,7 +75,7 @@ If you're running Arch, you can install Nitrocid KS using the Arch Linux AUR. Ju
 
 You can't install the release version and the cutting-edge (those with the `-git` suffix) version at the same time, since files conflict.
 
-### Bleeding-edge
+## Bleeding-edge
 
 Bleeding-edge builds usually come from building the development branch of the kernel, and they usually contain bugs and other untested features.
 

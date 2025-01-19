@@ -1,6 +1,6 @@
 ---
-description: How to install Nitrocid KS on macOS
 icon: apple
+description: How to install Nitrocid KS on macOS
 ---
 
 # macOS
@@ -15,21 +15,11 @@ Installing Nitrocid KS on macOS is pretty easy. Before performing the installati
 Extra kernel add-ons may require additional hardware on your computer to work. For example, the BassBoom addon requires that you have audio drivers installed on your computer.
 {% endhint %}
 
-### KS v0.1.0 or later
-
 To run Nitrocid KS in the absolute minimum requirements, your computer needs to have the following installed:
 
 | System                   | Framework                                                          | Terminal                                       |
 | ------------------------ | ------------------------------------------------------------------ | ---------------------------------------------- |
 | macOS Catalina or higher | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | [iTerm 2.0](https://iterm2.com/downloads.html) |
-
-### KS v0.0.20.0 or lower
-
-{% hint style="warning" %}
-We support installing KS 0.0.20.0 or lower until **2/22/2027**.
-{% endhint %}
-
-The above requirements are applied to the 0.0.20.0 version series or lower. The first version to introduce macOS support is 0.0.16.0. However, if possible, use the recent nightly builds of the upcoming version of the kernel.
 
 ## Installation
 
