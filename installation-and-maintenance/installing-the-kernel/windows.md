@@ -35,7 +35,7 @@ The Windows Installer method allows you to easily install Nitrocid KS.
 
 1. Download the latest Windows Installer ZIP file from [this page](https://github.com/Aptivi/Kernel-Simulator/releases)
 2. Unpack the ZIP archive to any folder of your choice using [7-Zip](https://7-zip.org/)
-3. Double-click on the MSI file, and follow the instructions
+3. Double-click on a single EXE file, and follow the instructions
 4. Go to your installation path and double-click on `Nitrocid.exe`.
 
 {% hint style="info" %}
@@ -66,12 +66,12 @@ Bleeding-edge builds usually come from building the development branch of the ke
 
 If you're a tester to such software, please follow the steps on your Windows machine. Please be sure that you're signed in to your GitHub account.
 
-1. Open [this page](https://github.com/Aptivi/Kernel-Simulator/actions/workflows/build-win.yml)
+1. Open the [canary release preparation workflow](https://github.com/Aptivi/Nitrocid/actions/workflows/release-canary.yml)
 2. Select the most recent build
-3. Scroll down to Artifacts and click on the `ks-build` button to download the ZIP file
-4. Extract the file. Be sure that you have the latest version of 7-Zip or your favorite archive manager installed
-5. Open your favorite terminal emulator, like ConEmu, and change the working directory to a folder containing the Nitrocid KS executable
-6. Execute `ks` or `Nitrocid.exe` to start the kernel
+3. Scroll down to Artifacts and click on the `nks-build` button to download the ZIP file or one of the `installer-ARCH-msi` files for the installer version, where `ARCH` is either `x64` or `arm64`.
+4. Extract the file. Be sure that you have the latest version of 7-Zip or your favorite archive manager installed. After that, follow the steps:
+   1. If you've used the `nks-build` output, follow the last two steps in the [Manual unpack](https://aptivi.gitbook.io/aptivi/nitrocid-ks-manual/installation-and-maintenance/installing-the-kernel/windows#method-3-manual-unpack) section.
+   2. If you've used the installer output, follow the last two steps in the [Windows Installer](https://aptivi.gitbook.io/aptivi/nitrocid-ks-manual/installation-and-maintenance/installing-the-kernel/windows#method-1-windows-installer) section.
 
 ## Notice for SmartScreen
 
