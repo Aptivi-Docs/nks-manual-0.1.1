@@ -38,10 +38,6 @@ The Windows Installer method allows you to easily install Nitrocid KS.
 3. Double-click on a single EXE file, and follow the instructions
 4. Go to your installation path and double-click on `Nitrocid.exe`.
 
-{% hint style="info" %}
-This is currently a prototype method and might change during the development cycle.
-{% endhint %}
-
 ### Method 2: Chocolatey
 
 This step-by-step guide shows you how to install Nitrocid KS using the package manager, [Chocolatey](https://chocolatey.org/install), assuming that you already have it on your system.
