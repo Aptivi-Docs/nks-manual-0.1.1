@@ -199,3 +199,68 @@ The following changes have been made:
 The following changes have been made:
 
 * <mark style="color:yellow;">Fixed a usability issue regarding Terminaux</mark>
+
+### Version 0.1.1.27
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated libraries to fix some bugs</mark>
+* <mark style="color:yellow;">General improvements and bug fixes</mark>
+* <mark style="color:red;">Removed music player (to be implemented as a mod of Nitrocid KS later)</mark>
+* <mark style="color:red;">Removed unused config category</mark>
+
+### Version 0.1.1.28
+
+The following changes have been made:
+
+* <mark style="color:green;">Added Ghostty support</mark>
+
+### Version 0.1.1.29
+
+The following changes have been made:
+
+* <mark style="color:yellow;">General improvements</mark>
+
+### Version 0.1.1.30
+
+The following changes have been made:
+
+* <mark style="color:yellow;">General improvements</mark>
+
+### Version 0.1.1.31
+
+The following changes have been made:
+
+* <mark style="color:yellow;">General improvements</mark>
+* <mark style="color:red;">Removed 2021 NTFS mitigation</mark>
+
+### Version 0.1.1.32
+
+The following changes have been made:
+
+* <mark style="color:green;">Added new themes</mark>
+* <mark style="color:green;">Added new screensavers</mark>
+* <mark style="color:green;">Added new languages</mark>
+* <mark style="color:green;">Added new commands</mark>
+* <mark style="color:green;">Added new interactive TUIs</mark>
+* <mark style="color:green;">Added</mark> <mark style="color:green;"></mark><mark style="color:green;">`SMultivar`</mark>
+* <mark style="color:green;">Added editable widgets in The Nitrocid Homepage</mark>
+* <mark style="color:green;">Added Pomodoro Timer</mark>
+* <mark style="color:green;">Added audio cues</mark>
+* <mark style="color:green;">Added Arch Linux packaging and Windows Installer packaging</mark>
+* <mark style="color:yellow;">Made the kernel more attractive</mark>
+* <mark style="color:yellow;">Refactored some API functions</mark>
+* <mark style="color:yellow;">Separated cultures from languages</mark>
+* <mark style="color:yellow;">Improvements in shutdown sequence</mark>
+* <mark style="color:yellow;">Themes now parse more quickly</mark>
+* <mark style="color:yellow;">Consolidated locale tools to Nitrocid.Locales</mark>
+* <mark style="color:red;">Removed modern debug look</mark>
+* <mark style="color:red;">Removed filesystem mitigation for NTFS corruption and BSOD issues</mark>
+
+### Out-of-band servicing releases
+
+Out-of-band servicing releases point to new versions that are released after the succeeding major version is out. You can check them out here:
+
+{% content-ref url="https://app.gitbook.com/s/yhORwVwuIgJMLsQRqN3S/versions-and-compatibility/supported-versions" %}
+[Supported Versions](https://app.gitbook.com/s/yhORwVwuIgJMLsQRqN3S/versions-and-compatibility/supported-versions)
+{% endcontent-ref %}
