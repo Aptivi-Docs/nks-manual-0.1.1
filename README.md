@@ -1,11 +1,15 @@
 ---
-icon: hand-wave
 description: Nitrocid KS is a kernel simulator made in C#!
+icon: hand-wave
 ---
 
 # Welcome!
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+This version series of Nitrocid is EOL. Please upgrade to either the latest supported version or the long-term support version.
+{% endhint %}
 
 If you're here wondering what is Nitrocid KS, then you're at the right place! Nitrocid KS is a kernel simulator application that simulates not only the kernel, but also a fully-functional textual operating system that allows you to do various tasks, such as file management, use the Internet to download and upload things from/to the websites, and so on.
 
